@@ -16,7 +16,7 @@ propuestas que deben ser votadas por la asamblea para ser aprobadas. De hecho qu
 propuestas que se encuentran en este repositorio deban ser votadas podría ser un tema de debate.
 
 Para proponer una propuesta se debe abrir una *pull request* en la que se añade un archivo
-llamado «000-<nombre de la propuesta>.md». En una primera fase se discute en la *pull request*
+llamado «000-\<nombre de la propuesta\>.md». En una primera fase se discute en la *pull request*
 la proposición, mientras tanto el creador podrá modificarla. Cuando el debate termine bien
 porque se ha llegado a un consenso o bien porque ya se han expresado todas las discrepancias,
 la *pull request* es fusionada al tronco del repositorio asignándole una identificación apropiada.
